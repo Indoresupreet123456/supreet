@@ -1,0 +1,68 @@
+Python Programming 
+
+Introduction to Python Language
+	What is Python, 
+	Uses of Python Programming Language / Python Applications, 
+	Python for Software development, 
+	Python for Networking, 
+	Python for Automated Testing,
+	Features of Python Programming Language, 
+	Implementations of Python, and Python career opportunities.
+
+02. Download & Install Paython
+03. Keywords and Identifiers
+04. Comments
+05. Variables
+	What is Variable?
+	Declaration of Variables
+ 	Assign Values to Variables
+	Initialization, Reading
+	Variable naming restrictions
+	Types of Python Variables.
+06. Data Types
+	What is Data Type 
+	Implicit Declaration of Data Types
+	Python Numbers (Integers, floating-point numbers, and complex numbers), 
+	Python Strings 
+	Python boolean data type.
+07. Operators
+	Arithmetic Operator
+	Comparison Operator
+	Assignment Operator
+	Logical Operator
+	Membership Operator
+08. Control Flow - Decision Making
+	if Statements
+	if else Statements
+	if elif STtatements
+	Nested if else
+09. Control Flow - Looping
+	Python Control Flow Statements
+	Python Loop Statements 
+	Python while loop, Python for loop
+	Python range(), Python Nested Loop Structures
+10. Control Flow - Branching
+	break, continue, pass
+11. Strings
+12. Lists
+	Create Python Lists 
+	Update Python Lists, 
+	Delete Elements from Python Lists.
+11. Tuples
+	The differences between tuples and lists 
+	the tuples cannot be changed unlike lists and tuples use parentheses,
+	whereas lists use square brackets.)
+12. Sets	
+13. Dictionaries
+14. Functions
+20. Modules
+21. Python File Handling
+
+Python OOPs Concepts
+01. Class Classes Objects
+02. Methods
+03. Constructors
+04. Inheritance
+05. Polymorphism
+06 Abstration
+07. Encapsulation
